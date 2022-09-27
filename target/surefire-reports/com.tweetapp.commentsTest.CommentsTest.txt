@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tweetapp.commentsTest.CommentsTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 89.47 s - in com.tweetapp.commentsTest.CommentsTest
