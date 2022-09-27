@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin("https://my-tweet-app.azurewebsites.net")
 @RestController
 public class CommentsController {
 	

@@ -18,7 +18,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin("https://my-tweet-app.azurewebsites.net")
 @RestController
 public class UserController {
 	
